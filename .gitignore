@@ -1,0 +1,28 @@
+# CMake build directories
+build/
+out/
+bin/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Certificates
+*.crt
+*.key
+*.pem
+
+# Test files
+test.txt
+uploads_*
